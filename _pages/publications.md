@@ -27,5 +27,5 @@ Publications
 Miscellaneous Reports
 ==========
 {% for post in site.reports reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-reports.html %}
 {% endfor %}
