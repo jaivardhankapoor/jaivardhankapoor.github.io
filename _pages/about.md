@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,9 @@ I am an Electrical Engineering student at IIT Kanpur. I am enrolled in a 5-year 
 
 Recently, in the fall of 2018, I did a 6-month stint at the Max Planck Insitute for Intelligent Systems(MPI-IS) in Tuebingen, Germany. I was fortunate enough to be supervised during this period by Dr [Isabel Valera](https://ivaleram.github.io/), and worked alongside Dr [Antonio Vergari](https://scholar.google.com/citations?user=YK0NLaUAAAAJ&hl=en), who taught me several tricks of the trade in research :). My work in MPI-IS was primarily focused on Bayesian Nonparametrics and Hawkes Processes. You can find our work in the publications page.
 
-Currently, during the Summer of '19, I am interning in the Department of CS at Aalto University in the [Computational Systems Biology Group](https://research.cs.aalto.fi/csb/). Here I am supervised by Dr [Harri Lahdesmaki](https://users.ics.aalto.fi/harrila/) and work with Dr [Markus Heinonen](https://users.aalto.fi/~heinom10/) and [Çağatay Yıldız](http://cagatayyildiz.github.io/). My work here revolves around designing scalable, higher-order, gradient-based MCMC samplers for inference in ODE systems, which are parameterized by Neural Networks or Gaussian Processes. 
+During the Summer of '19, I interned in the Department of CS at Aalto University in the [Computational Systems Biology Group](https://research.cs.aalto.fi/csb/). Here I was supervised by Dr [Harri Lahdesmaki](https://users.ics.aalto.fi/harrila/) and work with Dr [Markus Heinonen](https://users.aalto.fi/~heinom10/) and [Çağatay Yıldız](http://cagatayyildiz.github.io/). My work here revolved around designing scalable, higher-order, gradient-based MCMC samplers for inference in ODE systems, which are parameterized by Neural Networks or Gaussian Processes.
+
+Currently for my masters thesis, I am working with Dr [Vipul Arora](http://home.iitk.ac.in/~vipular) on employing ML methods in physics problems.
 
 Earlier, I worked on term-projects for courses such as Statistical Learning Theory, Bayesian Machine Learning, Introduction to NLP, Convex Optimization, and Data-Driven Program Analysis. Reports of some of these are available in the _Reports_ section of the publications page.
 
